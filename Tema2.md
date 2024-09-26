@@ -6,6 +6,10 @@ En este tema realizaremos las siguientes actividades:
 - **compilar código fuente a código objeto.**
 - **ejecutar código ejecutable.**
 
+![]( banner-sustainable-energy-1150x650.webp )
+
+
+
 ![]( https://localdab.org/wp-content/uploads/2022/11/Compiler-2.jpg )  
 
 ## Pasos del proceso de creación de aplicación
